@@ -1,18 +1,16 @@
-# Mojito
-
-Projeto desenvolvido com ReactJS.
+<h1 align='center'>Mojito🍹</h1>
 
 ## Sobre
 
-Mojito é uma aplicação web construída utilizando ReactJS, focada em proporcionar uma experiência moderna e eficiente.
+Mojito é uma aplicação web construída utilizando ReactJS e GSAP, focada em proporcionar uma experiência moderna e eficiente.
 
 ## Tecnologias
 
-- [ReactJS](https://react.dev/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
+<p align="center">
+    <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="ReactJS" title="ReactJS" />
+    <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+    <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
 ## Instalação
 
