@@ -1,12 +1,28 @@
-# React + Vite
+# Mojito
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido com ReactJS.
 
-Currently, two official plugins are available:
+## Sobre
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mojito é uma aplicação web construída utilizando ReactJS, focada em proporcionar uma experiência moderna e eficiente.
 
-## Expanding the ESLint configuration
+## Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [ReactJS](https://react.dev/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+## Instalação
+
+```bash
+git clone https://github.com/seu-usuario/mojito.git
+cd mojito
+npm install
+npm run dev
+```
+
+## Como usar
+
+Após instalar as dependências, execute `npm run dev` para iniciar o servidor de desenvolvimento. Acesse `http://localhost:5173` no navegador.
