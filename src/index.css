@@ -318,13 +318,13 @@ body {
         }
 
         .recipe {
-            @apply flex max-md:flex-col gap-10 md:items-center justify-between w-full lg:absolute bottom-0;
+            @apply flex max-md:flex-col gap-10 md:items-center justify-between w-full lg:absolute bottom-8;
 
             .info {
-                @apply space-y-4 lg:translate-y-20;
+                @apply space-y-4 ;
 
                 #title {
-                    @apply font-modern-negra md:text-6xl text-3xl text-yellow max-w-40;
+                    @apply font-modern-negra md:text-6xl text-3xl text-yellow ;
                 }
             }
 
@@ -332,11 +332,11 @@ body {
                 @apply space-y-5 md:max-w-md text-left;
 
                 h2 {
-                    @apply md:text-5xl text-3xl font-serif;
+                    @apply md:text-3xl text-3xl font-serif;
                 }
 
                 p {
-                    @apply md:text-lg pe-5;
+                    @apply pe-5;
                 }
             }
         }
