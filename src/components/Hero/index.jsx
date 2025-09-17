@@ -46,12 +46,12 @@ const HeroSection = () => {
       <img
         src="/images/hero-left-leaf.png"
         alt="Imagem de uma planta"
-        className="left-leaf"
+        className="left-leaf hidden md:block"
       />
       <img
         src="/images/hero-right-leaf.png"
         alt="Imagem de uma planta"
-        className="right-leaf"
+        className="right-leaf hidden md:block"
       />
 
       <div className="body">

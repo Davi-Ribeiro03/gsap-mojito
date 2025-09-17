@@ -73,7 +73,7 @@ const About = () => {
             <img src="/images/abt1.png" alt="grid-img-1" />
           </div>
         </div>
-        <div className="md:col-span-6">
+        <div className="md:col-span-6 h-auto">
           <div>
             <img src="/images/abt2.png" alt="grid-img-2" />
           </div>
@@ -86,7 +86,7 @@ const About = () => {
       </div>
 
       <div className="bottom-grid">
-        <div className="md:col-span-8">
+        <div className="md:col-span-8  h-auto">
           <div>
             <img src="/images/abt3.png" alt="grid-img-3" />
           </div>
