@@ -329,7 +329,7 @@ body {
             }
 
             .details {
-                @apply space-y-5 md:max-w-md text-right;
+                @apply space-y-5 md:max-w-md text-left md:text-right;
 
                 h2 {
                     @apply md:text-3xl text-3xl font-serif;
