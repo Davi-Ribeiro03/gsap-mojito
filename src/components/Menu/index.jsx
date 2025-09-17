@@ -72,7 +72,7 @@ const Menu = () => {
             />
           </button>
           <button
-            className="text-left"
+            className="flex flex-col items-end text-right"
             onClick={() => {
               currentIndex !== qtdOfCocktails - 1 &&
                 setCurrentIndex((prev) => prev + 1);
@@ -80,6 +80,7 @@ const Menu = () => {
           >
             <span>{nextCocktailName}</span>
             <img
+              className="w-9"
               src="/images/left-arrow.png"
               alt="left-arrow"
               aria-hidden="true"
